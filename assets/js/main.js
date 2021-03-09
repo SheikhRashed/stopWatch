@@ -1,7 +1,7 @@
 'use strict';
 // Var
 let Author = document.querySelectorAll('.author');
-Author.forEach((au) => (au.textContent = 'Rashed'));
+Author.forEach((au) => (au.textContent = 'Sheikh Rashed'));
 
 // Ui variables
 let [ms, ss, mm, hh] = [0, 0, 0, 0];
